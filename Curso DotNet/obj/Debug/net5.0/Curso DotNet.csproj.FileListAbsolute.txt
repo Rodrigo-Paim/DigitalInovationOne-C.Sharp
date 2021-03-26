@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.exe
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.deps.json
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.dll
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\ref\Curso DotNet.dll
+C:\Users\Rodrigo\Desktop\Curso DotNet\bin\Debug\net5.0\Curso DotNet.pdb
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.dll
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\ref\Curso DotNet.dll
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.pdb
+C:\Users\Rodrigo\Desktop\Curso DotNet\obj\Debug\net5.0\Curso DotNet.genruntimeconfig.cache
